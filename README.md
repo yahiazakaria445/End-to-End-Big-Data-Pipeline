@@ -1,7 +1,8 @@
 #  End-to-End Big Data Pipeline:  NiFi, MongoDB, Spark, Delta Lake on Hadoop, Power BI  
 
 ##  Architecture 
-<img width="2071" height="901" alt="arch drawio" src="https://github.com/user-attachments/assets/402d20b2-1f64-4a2c-af62-f8ebe4db6fe8" />
+<img width="2071" height="901" alt="last_arch drawio" src="https://github.com/user-attachments/assets/d8d1d3db-d39d-4e3e-a6a9-15e5c15974bd" />
+
 
 
 ---
